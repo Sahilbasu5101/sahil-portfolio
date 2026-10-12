@@ -1,0 +1,61 @@
+export const PROJECTS = [
+  {
+    id: 'wellsense',
+    title: 'WellSenseAI',
+    category: ['development', 'interaction'],
+    location: 'Assam, India',
+    services: 'RAG & Geospatial Drilling Intelligence',
+    year: '2026',
+    sub: 'Offset Well Radar & Geomechanics System',
+    tags: 'FastAPI · Gemini · ChromaDB · React · MongoDB',
+    link: 'https://wellsenseai.netlify.app/',
+    github: 'https://github.com/Sahilbasu5101/WellSenseAI',
+    svg: '/assets/work-wellsense.png',
+    image: '/assets/work-wellsense.png',
+    bgColor: '#081426'
+  },
+  {
+    id: 'minegov',
+    title: 'MINEGOV AI',
+    category: ['development', 'interaction'],
+    location: 'India',
+    services: 'Mining Surveillance & Telemetry Platform',
+    year: '2026',
+    sub: 'National Mining Governance & SCADA Telemetry',
+    tags: 'React 19 · Node.js · PostgreSQL · WebSockets · Leaflet',
+    link: 'https://minegov-ai.netlify.app/',
+    github: 'https://github.com/Sahilbasu5101/MINEGOV_AI',
+    svg: '/assets/work-minegov.png',
+    image: '/assets/work-minegov.png',
+    bgColor: '#052416'
+  },
+  {
+    id: 'smartstudenthub',
+    title: 'SmartStudentHub',
+    category: ['development', 'interaction', 'design'],
+    location: 'New Delhi, India',
+    services: 'AI Career Guidance & ATS Resume Analyzer',
+    year: '2026',
+    sub: 'AI Mentoring & Student Career Portal',
+    tags: 'React · Firebase · Gemini API · NLP · WebRTC',
+    link: 'https://carrier-ai-hub-2026.firebaseapp.com/',
+    github: 'https://github.com/Sahilbasu5101/AI-CAREER-HUB-NAVIGATOR',
+    svg: '/assets/work-smartstudenthub.png',
+    image: '/assets/work-smartstudenthub.png',
+    bgColor: '#0c1b3a'
+  },
+  {
+    id: 'musicblocks',
+    title: 'MusicBlocks',
+    category: ['development', 'design'],
+    location: 'Open Source',
+    services: 'Open Source Contributor & Testing Automation',
+    year: '2026',
+    sub: 'Visual Programming & Audio Synthesis Platform',
+    tags: 'JavaScript · Jest · GitHub CI/CD',
+    link: 'https://github.com/sugarlabs/musicblocks/pulls?q=is%3Apr+state%3Aclosed+author%3ASahilbasu5101',
+    svg: '/assets/work-quickshow.svg',
+    image: '/assets/work-quickshow.svg',
+    bgColor: '#1e0e2e'
+  }
+];
